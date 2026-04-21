@@ -78,9 +78,9 @@ I enjoy solving real-world engineering problems and building applications that s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tirtho-Ray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRax404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirtho-Ray&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRax404&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -89,14 +89,14 @@ I enjoy solving real-world engineering problems and building applications that s
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tirtho-Ray&theme=tokyonight&row=2&column=3"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TRax404&theme=tokyonight&row=2&column=3"/>
 </p>
 
 ---
 
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TRax404&theme=tokyo-night&area=true&hide_border=true"/>
 
 ---
 
@@ -115,7 +115,7 @@ I believe great software comes from:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tirtho-Ray&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TRax404&style=for-the-badge)
 
 ⭐️ If you like my projects, consider giving them a star
 
