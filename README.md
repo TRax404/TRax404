@@ -1,5 +1,5 @@
-# 👨‍💻 Tirtho Ray | Full Stack Developer
-### 🚀 Building scalable systems and real-world products
+# 👨‍💻 Tirtho Deb Ray | Full Stack Engineer & Backend Specialist
+### 🚀 Engineering scalable distributed systems and production-grade products
 
 <div align="center">
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
@@ -9,68 +9,59 @@
 
 # 👋 Hello, I'm Tirtho
 
-Hi 👋 I'm Tirtho Ray, a passionate Full Stack Developer who loves building clean, scalable, and efficient web applications.
+Hi 👋 I'm Tirtho Deb Ray, a passionate Full Stack Engineer specializing in robust backend architectures, real-time systems, and cloud deployments. I love solving complex infrastructure challenges, designing custom data structures, and optimizing application performance.
 
-I focus on modern architecture, performance, and scalable backend systems.
-
-🎯 My goal is simple:
-
-> Become a Top 1% Software Engineer by continuously learning, building, and sharing knowledge.
+🎯 **My Goal:** Become a Top 1% Software Engineer by engineering scalable solutions and driving impactful open-source contributions.
 
 ---
 
-# 🎯 Current Focus
+# 🚀 Core Capabilities & Highlights
 
-🔭 Working on:  
-Follow Me  
-A next-generation influencer platform where users can buy and sell followers, likes, and engagement.
+- **Advanced System Design:** Experienced in scaling real-time message delivery (Socket.io) for hundreds of concurrent users and architecting offline-first content sync engines.
+- **Data Engineering:** Engineered custom JSON data patterns for processing unlimited-depth hierarchical tree analytics.
+- **DevOps & Scaling:** Proven track record in horizontal scaling, containerization (Docker Compose), Nginx Round-Robin load balancing, and automated CI/CD workflows.
 
-🌍 Building:  
-Bangladesh Education Result Platform
+---
 
-Features:
+# 🎯 Featured Projects & Current Focus
 
-- Schools can publish results anytime
-- Students can check results using School + Roll Number
-- Digital result management system for schools
-- Fast and scalable result search
+### 📡 [Tape – IoT Digital Signage Platform](https://github.com/TRax404) (SaaS MVP)
+- Multi-tenant enterprise signage system to remotely control Android TVs/billboards.
+- Features tamper-proof QR device pairing, 15s chunked big-file sync managers, and asynchronous worker queues via BullMQ/Redis.
 
-🌱 Currently learning:
+### 📊 [Lawalx – B2B Data Analyzer Enterprise SaaS](https://github.com/TRax404)
+- Deeply nested analytics engine with 3 dedicated panels managing 42+ dynamic metrics charts.
+- Built-in bi-directional Excel sync pipeline allowing offline file modification and manager approval triggers.
 
-- Docker
-- CI/CD pipelines
-- Kubernetes
-- Cloud deployment
-- Scalable backend architecture
+### 👂 [I am Ear – P2P Mental Wellness Marketplace](https://github.com/TRax404)
+- Real-time consulting platform featuring High-fidelity audio streams (Agora SDK).
+- Horizontally scaled backend infrastructure utilizing 4 active Docker containers and automated minute-by-minute transactional rollbacks.
+
+🔭 **Also building:** Follow Me (Next-Gen Engagement Platform) & Bangladesh Education Result Hub.
+
+🌱 **Currently exploring deeper into:** System Design Patterns, Kubernetes Orchestration, Advanced AWS Architectures.
 
 ---
 
 # 💡 About Me
 
-I specialize in Full Stack Development using modern technologies.
-
-My focus areas:
-
-- MERN Stack
-- PERN Stack
-- Backend API Architecture
-- DevOps & Cloud Systems
-
-I enjoy solving real-world engineering problems and building applications that scale.
+- 💼 Working as a **Full Stack Engineer (Backend Specialist)** at Softvence Agency.
+- ⚙️ **Stack Preferences:** NestJS, TypeScript, PostgreSQL (Prisma), Docker, AWS ecosystem.
+- 🧠 Believer of: *Clean Architecture, Test-Driven mindset, and asynchronous performance.*
 
 ---
 
 # 🛠 Technology Arsenal
----
 ### 🛠 Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | Languages | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
+| Backend | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=socketdotio&logoColor=white) |
+| Queues & Caching | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/-BullMQ-FFA500?style=flat) |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
+| DevOps & Cloud | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
 
 ---
 
@@ -102,14 +93,7 @@ I enjoy solving real-world engineering problems and building applications that s
 
 # 🚀 Developer Philosophy
 
-> Code is poetry, and architecture is the story behind it.
-
-I believe great software comes from:
-
-- Continuous learning
-- Clean architecture
-- Solving real problems
-- Building scalable systems
+> "Code is poetry, and architecture is the story behind it."
 
 ---
 
@@ -117,6 +101,6 @@ I believe great software comes from:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TRax404&style=for-the-badge)
 
-⭐️ If you like my projects, consider giving them a star
+⭐️ If you like my projects, consider giving them a star!
 
 </div>
