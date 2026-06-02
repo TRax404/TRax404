@@ -65,6 +65,16 @@ Hi 👋 I'm Tirtho Deb Ray, a passionate Full Stack Engineer specializing in rob
 
 ---
 
+# 📸 Highlights
+
+<div align="center">
+  <img src="https://i.ibb.co.com/9mKJMrqp/1776693059241.jpg" height="300" style="margin: 10px; border-radius: 10px;" alt="Highlight 1"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co.com/tpmJWdwJ/1776693059757.jpg" height="300" style="margin: 10px; border-radius: 10px;" alt="Highlight 2"/>
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
